@@ -1,8 +1,9 @@
 {
- "name": "TH Residencial Boulevard",
- "start_url": "index.htm?installed=true",
  "theme_color": "#05447C",
+ "background_color": "#05447C",
+ "name": "TH Residencial Boulevard",
  "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "background_color": "#05447C"
+ ]
 }
